@@ -1,0 +1,42 @@
+/*head*/
+.header{
+     color:  blue;
+     padding: 20px;
+     text-align: center;
+}
+.bg{
+	background-color:rgb(238, 130, 238);
+	color: white;
+	padding: 040px;
+	border-style: solid;
+  border-color: black;
+}
+.bg1 {
+     background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 500px;
+	text-align: center;
+}
+.bg1 h1{
+	color: red;
+	padding: 30px;
+}
+.bg1 p{
+	margin: 80px;
+	font-size: 24px;
+}
+.bg2 {
+  background-image: url("../img/img1.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+}
+.bg3 {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
